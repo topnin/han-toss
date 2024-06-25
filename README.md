@@ -2,4 +2,6 @@
 
 git push form VScode
 
-git push
+git pull
+
+
